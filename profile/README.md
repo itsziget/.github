@@ -1,6 +1,6 @@
 # About the repository
 
-Repositories are being moved my personal GitHub namespace "rimelek". 
+Repositories are being moved to my personal GitHub namespace "rimelek". 
 
 The "itsziget" repository was used for years for new projects that I thought I could develop with the help of a team which I never had, si its time to store all of my projects under my personal account.
 
